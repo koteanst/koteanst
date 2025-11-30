@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I\`m [koteanst](https://github.com/koteanst)
+
+Frontend Developer
+Stack: Next.js + JavaScript / TypeScript
+
 
 <!--
 **koteanst/koteanst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

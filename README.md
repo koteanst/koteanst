@@ -1,8 +1,8 @@
-## Hi, I\`m [koteanst](https://github.com/koteanst)
+### Hi, I\`m [koteanst](https://github.com/koteanst)
 
-### Frontend Developer
+Frontend Developer
 
-### Stack: Next.js + JavaScript / TypeScript
+Stack: Next.js + JavaScript / TypeScript
 
 
 <!--

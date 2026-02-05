@@ -1,8 +1,10 @@
+<!--
 ### Hi, I\`m [koteanst](https://github.com/koteanst)
 
 Frontend Developer
 
 Stack: Next.js + JavaScript / TypeScript
+-->
 
 
 <!--
